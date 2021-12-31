@@ -5,6 +5,7 @@ IEX for stocks’ prices. For more informations about this project, go check out
 
 # Screenshots
 You should click on the screenshots to see them in a better quality!
+
 ![Screenshot_1](https://user-images.githubusercontent.com/83656997/147831030-8b49103b-dea1-4eed-9379-a509ea06b82b.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/83656997/147831031-5d162b47-6002-4957-aa9a-6f4b91ed899e.png)
 ![Screenshot_3](https://user-images.githubusercontent.com/83656997/147831034-b456d84d-ad4d-4538-b660-7b475c0bcedd.png)
