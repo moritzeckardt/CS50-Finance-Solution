@@ -1,10 +1,11 @@
 # About
 The description of this problem set is as follows: You’re about to implement C$50 Finance, a web app via which you can manage portfolios of stocks. 
 Not only will this tool allow you to check real stocks’ actual prices and portfolios’ values, it will also let you buy (okay, “buy”) and sell (okay, “sell”) stocks by querying 
-IEX for stocks’ prices. For more informations about this project, go check out this link: https://cs50.harvard.edu/x/2021/psets/9/finance/
+IEX for stocks’ prices. For more informations about this project, go check out this link: https://cs50.harvard.edu/x/2021/psets/9/finance/.
 
 # Screenshots
 You should click on the screenshots to see them in a better quality!
+You can also visit the website: https://finance.cs50.net/login
 
 ![Screenshot_1](https://user-images.githubusercontent.com/83656997/147831030-8b49103b-dea1-4eed-9379-a509ea06b82b.png)
 ![Screenshot_2](https://user-images.githubusercontent.com/83656997/147831031-5d162b47-6002-4957-aa9a-6f4b91ed899e.png)
